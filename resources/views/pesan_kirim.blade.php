@@ -83,8 +83,8 @@
                 </div>
 
                 <div class="links">
-                    <a href=about>about</a>
-					<a href=pesan>pesan</a>
+                    <p><?php echo $_POST['pesan'];></p><br/>\
+					<a href="/">home</a>
                 </div>
             </div>
         </div>

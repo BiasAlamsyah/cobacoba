@@ -79,12 +79,11 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Welcome to Mobile Legend
+                   about of about
                 </div>
 
-                <div class="links">
-                    <a href=about>about</a>
-					<a href=pesan>pesan</a>
+                <div>
+                    <a href="/">home</a>
                 </div>
             </div>
         </div>
